@@ -224,6 +224,11 @@ Please, note some of these commands are not supported by VSCodeVim yet.
 
 1. The focus is on the new split initially. To move between splits first press Ctrl-w.
 
+![example image](snoopy.jpg "An exemplary image")
+
+
+
+
 ## Interesting resources
 
 [Using marks](http://vim.wikia.com/wiki/Using_marks)
