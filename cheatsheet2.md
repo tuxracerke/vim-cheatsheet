@@ -10,6 +10,15 @@ In this document, I'll share with you my Vim learnings, listing everyday command
 
 Vim commands are formed from a combination of verbs and targets. The targets could be objects (words, sentences, paragraphs, lines, the contents of parentheses) or movements (jump to the end of a word, jump to end of the paragraph, jump forward until the letter ‘e’, etc). Forming objects generally involves the use of a modifier. You can also add a count to perform the action count times.
 
+## References
+
+- [w3schools.com](https://www.w3schools.io/editor/vim-tutorials/)
+
+![example image](charlie.png "An exemplary image")
+
+
+
+
 ### Commands
 
 |         |                                                                     |
