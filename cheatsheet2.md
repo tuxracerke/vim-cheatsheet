@@ -15,6 +15,15 @@ Vim commands are formed from a combination of verbs and targets. The targets cou
 
 ![example image](charlie.png "An exemplary image")
 
+## Commands
+<table>
+      <tr><td>v</td><td>Enter visual mode</td></tr>
+      <tr><td>V</td><td>Enter visual mode and select current line</td></tr>
+      <tr><td>c</td><td>change</td></tr>
+      <tr><td>cc</td><td>delete current line and then enter insert mode</td></tr>
+</table>
+
+
 | Command |                                                                     |
 |---------|---------------------------------------------------------------------|
 | v       | enter visual mode                                                   |
