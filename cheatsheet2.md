@@ -21,6 +21,10 @@ Vim commands are formed from a combination of verbs and targets. The targets cou
       <tr><td>V</td><td>Enter visual mode and select current line</td></tr>
       <tr><td>c</td><td>change</td></tr>
       <tr><td>cc</td><td>delete current line and then enter insert mode</td></tr>
+      <tr><td>C</td><td>Delete from the cursor position to the end of the line then enter insert mode </td></tr>
+      <tr><td>d</td><td>  delete (remove from the document and put in buffer)  </td></tr>
+      <tr><td>dd</td><td>delete current line</td></tr>
+      <tr><td>D</td><td>Delete from the cursor position to the end of the line         </td></tr>
 </table>
 
 
